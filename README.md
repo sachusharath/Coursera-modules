@@ -1,2 +1,2 @@
-# coursera-test
-Coursera test repository 
+# Coursera-modules
+Coursera solutions repository 
